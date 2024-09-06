@@ -7,4 +7,7 @@ Covered Topic: Arrays
 💡 Solved/Revised 4 Problems:
 
 ✅ Move Zeroes
+
 ✅ Two Sum
+
+✅ Remove Duplicates from Sorted Array's 
