@@ -11,3 +11,5 @@ Covered Topic: Arrays
 ✅ Two Sum
 
 ✅ Remove Duplicates from Sorted Array's 
+
+✅ Remove Linked List Element
