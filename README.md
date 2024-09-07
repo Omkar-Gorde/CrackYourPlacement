@@ -19,7 +19,17 @@ Day 02 of 45 Complete (5 of 280)!
 
 Covered Topic: Arrays
 
-💡 Solved/Revised 4 Problems:
+💡 Solved/Revised 5 Problems:
 
 ✅ Set Matrix Zeros
+
+✅ Merge Sorted Array
+
+✅ Best Time to Buy and Sell Stock 
+
+✅ Best Time to Buy and Sell Stock II
+
+✅ linked list in binary tree
+
+
 
