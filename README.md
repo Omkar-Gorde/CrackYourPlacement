@@ -17,7 +17,7 @@ Covered Topic: Arrays & Daily Challenge with Linked List
 
 Day 02 of 45 Complete (5 of 280)!
 
-Covered Topic: Arrays
+Covered Topic: Arrays & Daily Challenge with Linkedin List 
 
 💡 Solved/Revised 5 Problems:
 
