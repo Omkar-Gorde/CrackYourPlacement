@@ -32,4 +32,18 @@ Covered Topic: Arrays & Daily Challenge with Linkedin List
 ✅ linked list in binary tree
 
 
+Day 03 of 45 Complete (5 of 280)!
+
+Covered Topic: Arrays & Daily Challenge with Linkedin List 
+
+💡 Solved/Revised 5 Problems:
+
+
+Day 04 of 45 Complete (5 of 280)!
+
+Covered Topic: Arrays & Daily Challenge with Linkedin List 
+
+💡 Solved/Revised 5 Problems:
+
+
 
