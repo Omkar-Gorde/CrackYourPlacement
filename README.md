@@ -78,3 +78,11 @@ Covered Topic: String
 
 ✅ Find the Index of the First Occurrence in a String
 
+Day 07 of 45 Complete (19 of 280)!
+
+Covered Topic: String 
+
+Solved/Revised 4 Problems
+
+✅ Valid Palindrome 2 
+
