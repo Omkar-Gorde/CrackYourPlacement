@@ -101,10 +101,17 @@ Solved/Revised 4 Problems
 
 Day 08 of 45 Complete (20 of 280)! 13-09-2024
 
-Covered Topic: Mathematical 
+Covered Topic: Mathematical, Searching and Sorting  
 
 Solved/Revised 4 Problems
 
 ✅ Product Array Puzzle 
+
+✅ Ceiling in a sorted array
+
+✅ Majority Element (Array for Revision)
+
+✅ Permute two arrays such that sum of every pair is greater or equal to k 
+
 
 
