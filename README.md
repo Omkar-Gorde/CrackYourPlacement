@@ -1,6 +1,6 @@
 # CrackYourPlacement
 
-Day 01 of 45 Complete (1 of 280)!
+Day 01 of 45 Complete (1 of 280)! 06-09-2024
 
 Covered Topic: Arrays & Daily Challenge with Linked List 
 
@@ -15,7 +15,7 @@ Covered Topic: Arrays & Daily Challenge with Linked List
 
 
 
-Day 02 of 45 Complete (4 of 280)!
+Day 02 of 45 Complete (4 of 280)! 07-09-2024
 
 Covered Topic: Arrays & Daily Challenge with Linkedin List 
 
@@ -27,7 +27,7 @@ Covered Topic: Arrays & Daily Challenge with Linkedin List
 
 
 
-Day 03 of 45 Complete (7 of 280)!
+Day 03 of 45 Complete (7 of 280)! 08-09-2024
 
 Covered Topic: Arrays 
 
@@ -39,7 +39,7 @@ Covered Topic: Arrays
 
 
 
-Day 04 of 45 Complete (9 of 280)!
+Day 04 of 45 Complete (9 of 280)! 09-09-2024
 
 Covered Topic: Arrays 
 
@@ -55,7 +55,7 @@ Covered Topic: Arrays
 
 
 
-Day 05 of 45 Complete (13 of 280)!
+Day 05 of 45 Complete (13 of 280)! 10-09-2024
 
 Covered Topic: Arrays 
 
@@ -64,7 +64,10 @@ Covered Topic: Arrays
 ✅ Chocolate Distribution Problem
 
 
-Day 06 of 45 Complete (14 of 280)!
+
+
+
+Day 06 of 45 Complete (14 of 280)! 11-09-2024
 
 Covered Topic: String 
 
@@ -78,11 +81,30 @@ Covered Topic: String
 
 ✅ Find the Index of the First Occurrence in a String
 
-Day 07 of 45 Complete (19 of 280)!
 
-Covered Topic: String 
+
+Day 07 of 45 Complete (19 of 280)! 12-09-2024
+
+Covered Topic: String, Mathematical 
 
 Solved/Revised 4 Problems
 
 ✅ Valid Palindrome 2 
+
+✅ Excel Sheet Column Title 
+
+✅ Maximum Product 
+
+✅ Add Binary 
+
+
+
+Day 08 of 45 Complete (20 of 280)! 13-09-2024
+
+Covered Topic: Mathematical 
+
+Solved/Revised 4 Problems
+
+✅ Product Array Puzzle 
+
 
